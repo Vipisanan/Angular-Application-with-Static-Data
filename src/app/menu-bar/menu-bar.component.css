@@ -1,0 +1,51 @@
+.hed-dashboard{
+  text-align: center;
+  color: white;
+  font-family: -apple-system;
+  font-size: 24px;
+}
+
+
+
+.mainLoginInput{
+  position: center;
+  border-radius: 25px;
+  height: 40px;
+  width: 100%;
+  padding: 0px;
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.mainLoginInput::-webkit-input-placeholder {
+  font-family: FontAwesome;
+  font-weight: normal;
+  overflow: visible;
+  vertical-align: top;
+  display: inline-block !important;
+  padding-left: 5px;
+  padding-top: 2px;
+  color: hsl(0, 1%, 54%);
+}
+
+hr {
+  width: 90%;
+  margin-top: 0px;
+  border: 2px solid white;
+  border-radius: 60px;
+}
+.item{
+  font-size: 24px;
+  width: 100%;
+
+}
+
+.single-item{
+  text-align: center;
+  font-family: -apple-system;
+  color: white;
+  margin-right: 0px;
+}
+.ri-icon{
+  float: right;
+}
