@@ -1,6 +1,5 @@
 import {Component, OnInit} from '@angular/core';
 
-declare function showAndHide(): any;
 
 @Component({
   selector: 'app-menu-bar',
@@ -13,7 +12,6 @@ export class MenuBarComponent implements OnInit {
   }
 
   ngOnInit() {
-    showAndHide();
   }
 
 }

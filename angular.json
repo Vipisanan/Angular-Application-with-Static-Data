@@ -106,7 +106,7 @@
 
             ],
             "scripts": [
-              "src/assets/drag/drag.js",
+              "src/assets/drag/drag.js"
             ]
           }
         },
