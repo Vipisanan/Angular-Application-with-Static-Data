@@ -2,15 +2,16 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 450px;
+  width: 100%;
+  color: #A3A2A2;
 }
 
-#sortable div {
-  margin: 3px 3px 3px 0;
-  padding: 1px;
-  float: left;
-  width: auto;
-  height: auto;
-  font-size: 4em;
-  text-align: center;
-}
+/*#sortable div {*/
+/*  margin: 3px 3px 3px 0;*/
+/*  padding: 1px;*/
+/*  float: left;*/
+/*  width: auto;*/
+/*  height: auto;*/
+/*  font-size: 4em;*/
+/*  text-align: center;*/
+/*}*/

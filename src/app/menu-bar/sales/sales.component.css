@@ -1,8 +1,41 @@
-.heading-dashboard{
+.heading-dashboard {
   color: #B7B5B5;
   font-size: 30px;
 }
-.component{
+
+.component {
   padding: 10px;
-  box-shadow:4px 0px  5px black;
+  box-shadow: 4px 0px 5px black;
+}
+
+/*card view*/
+.collapse-content .fa.fa-heart:hover {
+  color: #f44336 !important;
+}
+
+.collapse-content .fa.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
+
+.tile {
+  float: left;
+  font-size: 24px;
+  padding: inherit;
+  width: auto;
+  height: auto;
+  min-width: 350px;
+  margin: 12px 12px 12px 12px;
+}
+.tile-header{
+  height: 40px;
+}
+.tile-content {
+  font-size: 11px;
+  margin-left: 10px;
+}
+.effect8{
+  position:relative;
+  -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
