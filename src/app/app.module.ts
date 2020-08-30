@@ -6,6 +6,9 @@ import {AppComponent} from './app.component';
 import { MenuBarComponent } from './menu-bar/menu-bar.component';
 import { SalesComponent } from './menu-bar/sales/sales.component';
 import { FinanceComponent } from './menu-bar/finance/finance.component';
+import { PieComponent } from './d3Charts/pie/pie.component';
+import { BarComponent } from './d3Charts/bar/bar.component';
+import { ScatterComponent } from './d3Charts/scatter/scatter.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +16,9 @@ import { FinanceComponent } from './menu-bar/finance/finance.component';
     MenuBarComponent,
     SalesComponent,
     FinanceComponent,
+    PieComponent,
+    BarComponent,
+    ScatterComponent,
   ],
   imports: [
     BrowserModule,
